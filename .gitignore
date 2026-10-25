@@ -1,0 +1,12 @@
+.venv*/
+__pycache__/
+*.pyc
+.env
+zhurnal.jsonl
+*.log
+*.err
+# флаги режимов и личные материалы
+golos
+zashchita
+matan
+materialy/
